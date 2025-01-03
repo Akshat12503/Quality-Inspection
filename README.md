@@ -1,5 +1,3 @@
-# Quality-Inspection
-
 # Project Overview
 
 This project focuses on Exploratory Data Analysis (EDA) and quality inspection using machine learning techniques. The goal is to analyze and process data to identify patterns and insights related to quality metrics. The notebook includes data visualization, preprocessing, and modeling steps for effective quality assessment.
@@ -16,7 +14,7 @@ Model building and evaluation for quality inspection
 
 # Installation
 
-Clone the repository: git clone https://github.com/your-username/quality-inspection.git
+Clone the repository: https://github.com/Akshat12503/Quality-Inspection.git
 
 Navigate to the project directory: cd quality-inspection
 
